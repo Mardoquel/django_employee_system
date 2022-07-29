@@ -28,8 +28,6 @@ Inicie o servidor de testes do Django:
 python manage.py runserver
 ```
 
-## ____________________________________________
-
 
 # EN:  Employee Management System
 
