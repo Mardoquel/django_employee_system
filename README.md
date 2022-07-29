@@ -1,5 +1,7 @@
 # BR: Sistema de Gerenciamento de Funcionarios | EN:  Employee Management System
 
+### *Recomenda-se criar um ambiente virtual!
+
 ## Instalação das Dependências
 
 ```bash
