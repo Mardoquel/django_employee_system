@@ -1,4 +1,4 @@
-# BR: Sistema de Gerenciamento de Funcionarios | EN:  Employee Management System
+# BR: Sistema de Gerenciamento de Funcionarios
 
 ### *Recomenda-se criar um ambiente virtual!
 
@@ -28,3 +28,35 @@ Inicie o servidor de testes do Django:
 python manage.py runserver
 ```
 
+## ____________________________________________
+
+
+# EN:  Employee Management System
+
+### *It is recommended to create a virtual environment!
+
+## Installation of Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+To create the _Migrations_:
+
+```bash
+python manage.py makemigrations
+```
+
+To effect _Migrations_  on the database:
+
+```bash
+python manage.py migrate
+```
+
+## Execution
+
+Start the Django test server:
+
+```bash
+python manage.py runserver
+```
